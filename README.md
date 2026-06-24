@@ -31,6 +31,9 @@ A fully Dockerized observability pipeline built around an instrumented Python (F
 
 ---
 
+<img width="1368" height="605" alt="image" src="https://github.com/user-attachments/assets/0f519877-0583-46dc-b7b6-7599e61a3ecb" />
+
+
 ## 🧱 1 — Project Structure
 
 ```bash
@@ -290,6 +293,7 @@ Running services:
 
 ---
 
+
 ## 📡 8 — Generate Traffic
 
 ```bash
@@ -299,6 +303,16 @@ curl http://localhost:5000/error
 ```
 
 ---
+
+<img width="1371" height="685" alt="image" src="https://github.com/user-attachments/assets/1da6546a-f37f-4c37-b079-8e0e250dd00f" />
+
+<img width="1372" height="700" alt="image" src="https://github.com/user-attachments/assets/c3782cbe-5cfd-4249-b692-bcff4c6f6b9b" />
+
+
+<img width="1373" height="688" alt="image" src="https://github.com/user-attachments/assets/5763b462-22c8-4575-ba74-7a9081e50159" />
+
+<img width="1372" height="684" alt="image" src="https://github.com/user-attachments/assets/5a0b3508-4aa5-44c3-84ca-657b9b015532" />
+
 
 ## 📊 9 — Grafana Setup
 
@@ -343,6 +357,9 @@ service = observability-app
 ```
 
 ---
+
+<img width="801" height="560" alt="image" src="https://github.com/user-attachments/assets/0ee30d97-203d-4167-9e31-c31ad8a9808f" />
+
 
 ## 📊 11 — Sample Dashboard JSON
 
