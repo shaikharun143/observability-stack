@@ -1,4 +1,4 @@
-# 🔭 Observability Stack
+# 🔭 Observability System 
 
 A fully Dockerized observability pipeline built around an instrumented Python (Flask) application. It demonstrates the **three pillars of observability** — metrics, logs, and traces — wired into a single visualization layer.
 
